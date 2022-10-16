@@ -1,4 +1,2 @@
-# Beginning my JS journey, learning by doing these small projects
-JS Learn - Project #1 Background color toggle
-
-Simple background color change on click.
+# Project_Change_Color_Background
+Simple JavaScript Project that changes background each time a button is pressed.
